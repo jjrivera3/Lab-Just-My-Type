@@ -1,4 +1,4 @@
-# Just My Type
+# Typing Game
 Covalence
 
 ## Info
